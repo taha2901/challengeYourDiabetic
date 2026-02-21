@@ -50,13 +50,14 @@ It helps users track glucose, blood pressure, weight, manage medications, book d
 git clone https://github.com/taha2901/challengeYourDiabetic.git
 
 # Navigate to project folder
-cd challenge-your-diabetic
+cd challengeYourDiabetic
 
 # Install dependencies
 flutter pub get
 
 # Run the app
 flutter run
+
 
 
 
