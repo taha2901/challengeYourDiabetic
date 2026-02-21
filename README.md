@@ -47,7 +47,7 @@ It helps users track glucose, blood pressure, weight, manage medications, book d
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/challenge-your-diabetic.git
+git clone https://github.com/taha2901/challengeYourDiabetic.git
 
 # Navigate to project folder
 cd challenge-your-diabetic
@@ -57,5 +57,6 @@ flutter pub get
 
 # Run the app
 flutter run
+
 
 
