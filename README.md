@@ -36,10 +36,10 @@ It helps users track glucose, blood pressure, weight, manage medications, book d
 ## 📂 Download & Demo
 
 - 📱 **APK Download**  
-[Download APK](https://drive.google.com/file/d/10E1Z4pkwvx_5-Pv0gX1P33uAvP5Jt221/view)
+[Download APK](https://drive.google.com/file/d/1oGVjf7TefQNExTtQwuE-KxnAr-jap9DR/view?usp=drivesdk)
 
 - 🎬 **Demo Video**  
-[Watch Demo Video](https://drive.google.com/file/d/1nGkVrfmaj2ZROVg9SGYs5Ej6TaD1-skm/view)
+[Watch Demo Video](https://drive.google.com/file/d/1DdwR92_YnzFSgl7GA8wNAz8OF04CzYz7/view?usp=drivesdk)
 
 ---
 
@@ -57,4 +57,5 @@ flutter pub get
 
 # Run the app
 flutter run
+
 
