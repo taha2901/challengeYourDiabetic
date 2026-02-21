@@ -27,8 +27,8 @@ It helps users track glucose, blood pressure, weight, manage medications, book d
 
 ## 📸 App Preview
 
-<p align="center">
-  <img src="assets/images/challenge_your_diabetic.png" width="350"/>
+<p align="left">
+  <img src="assets/images/challenge_your_diabetic.png" width="500"/>
 </p>
 
 ---
@@ -57,3 +57,4 @@ flutter pub get
 
 # Run the app
 flutter run
+
